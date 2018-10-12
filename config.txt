@@ -1,0 +1,6 @@
+token=NTAwMzAwNTk1NzIzMzcwNTA4.DqI8Sw.aWScsUcM9nis4kUUtKcPAXRhOV0
+owner=485380710656507914
+prefix=F
+game=Type Fhelp
+stayinchannel=true
+songinstatus=true
